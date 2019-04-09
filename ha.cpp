@@ -15,7 +15,7 @@ class Amigo{
         Amigo(string,string,int);
         void mostrar();
 };
-
+// se crea el contructor
 Amigo::Amigo(string _nombre, string _apellido, int _edad){
         
         nombre = _nombre;
